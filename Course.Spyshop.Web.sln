@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Spyshop.Web", "Course.Spyshop.Web\Course.Spyshop.Web.csproj", "{A39B6C4D-8456-4AC7-90A6-AF004EC14FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{8062C086-F5B1-4162-845E-89F1B740F37E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Spyshop.Domain", "ClassLibrary1\Course.Spyshop.Domain.csproj", "{8062C086-F5B1-4162-845E-89F1B740F37E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
